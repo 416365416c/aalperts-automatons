@@ -1,0 +1,6 @@
+Module Qt.labs.particles
+Particles 2.0 Particles.qml
+ParticleMotion 2.0 ParticleMotion.qml
+ParticleMotionGravity 2.0 ParticleMotionGravity.qml
+ParticleMotionLinear 2.0 ParticleMotionLinear.qml
+ParticleMotionWander 2.0 ParticleMotionWander.qml

@@ -1,0 +1,7 @@
+*/.git #Because I copied in repos
+*~
+*.o
+moc_*
+*.swp
+*.pro.user
+*.qmlproject.user

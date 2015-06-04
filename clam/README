@@ -1,0 +1,19 @@
+Change Log Automation Machine
+
+Requirements:
+
+Qt 5.1 including QtQuick.Controls
+git commands are run, recent git required (>=1.6.6)
+
+Usage:
+
+Run in the target git repo. To work on a managable number of commits, pass a single argument as the git log range (such as 'v5.0.0..HEAD').
+
+Notes and seen list are stored as notes (refs/notes/clam) in the git repo. All changes are automatically saved.
+
+
+Future:
+
+UI was thrown together a bit hurridly, the QML files probably need to be re-written.
+Sync between users so as to actually use the other user data
+Separate Local->mobile sync to work on the go

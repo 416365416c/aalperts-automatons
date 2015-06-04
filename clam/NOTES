@@ -1,0 +1,3 @@
+Git username is your user[1], human-readable CLAM data gets stored in the git notes under the 'clam' namespace. CLAM data is always tied to a commit, until you print all the notes as the first draft of your change log.
+Sharing of git notes is possible, but not too easy so the tool probably needs to provide some shared sync capabilities
+[1] There is no authentication. Ergo there should be no authorization. No secret RLM mode, all comments and checks are visible (if you push)

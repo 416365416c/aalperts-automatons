@@ -1,0 +1,27 @@
+Note: :) :| :( used for implementation status markers.
+v0.2
+-------------------
+* Auto indent :)
+* Syntax Highlighting :|
+* Tabs
+* Scrollable text editor :|
+* File Dialogs
+* Menu structure (see MENU-STRUCTURE.xlsx) :)
+
+v0.3
+-------------------
+* Working menus
+* Sliders for int properties
+* Error slide box
+* Snippets
+* Open snippet/welcome.qml at startup
+* Highlight line with error
+* Zoom (in/out) should only work in steps (12.5% - 16.67% - 25% - 33.33% - 50% - 66.67% - 100% - 150% - 200% - 300% - 400%)
+* Autosaves (because the interpreter WILL crash sometimes)
+
+v1.0
+-------------------
+
+
+v2.0
+-------------------

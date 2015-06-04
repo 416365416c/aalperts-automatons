@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version = "1.0">
+<qresource prefix="/">
+    <file>qml/main.qml</file>
+    <file>qml/LogList.qml</file>
+    <file>qml/AboutDialog.qml</file>
+    <file>qml/ParticleIndicator.qml</file>
+    <file>qml/particle.png</file>
+</qresource>
+</RCC>

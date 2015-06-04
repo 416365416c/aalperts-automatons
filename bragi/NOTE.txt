@@ -1,0 +1,5 @@
+This is not a pure QML tool. You cannot run it with qmlscene, you must compile and run the bragi executable against Qt 5.0.0.
+
+It also depends on unmerged WIP commits:
+https://codereview.qt-project.org/#change,23617
+https://codereview.qt-project.org/#change,26312
